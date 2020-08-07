@@ -141,7 +141,9 @@ class _CityPickerViewState extends State<CityPickerView> {
       });
     } else {
       datas = widget.params;
-      setState(() {});
+      setState(() {
+          isShow = true;
+        });
     }
   }
 
