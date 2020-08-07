@@ -2,7 +2,9 @@
 
 城市选择器在项目开发中一般都会用到，基于flutter版本的也有一个[city_pickers](https://pub.dev/packages/city_pickers)但是已经很久没有人维护了，项目中之前也用的是这个,最近升级到flutter1.17.x后，发现有一定的概率闪退，无奈之下，只能自动动手撸一个了 
 ![](https://img2020.cnblogs.com/blog/950551/202008/950551-20200807135609976-1943878161.png)
+
 demo下载地址：https://github.com/qqcc1388/city_picker
+
 CityPickerView能够实现以下功能
 - 显示省市区地址，市或者区可以为空白数据
 - 省市区数据支持自定义，但是格式要按照city.json中个格式来，如果需要外部传入省市区数据，直接使用params参数即可
