@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - kzcity_picker (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - kzcity_picker (from `.symlinks/plugins/kzcity_picker/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  kzcity_picker:
+    :path: ".symlinks/plugins/kzcity_picker/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  kzcity_picker: 576d6bd505dc35010c4485789595fe7b5614ab1d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.1

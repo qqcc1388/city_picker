@@ -7,4 +7,4 @@ version:
   revision: a76289bb1b63ed15477cbadc015537e4ea9c7d58
   channel: master
 
-project_type: plugin
+project_type: app
