@@ -1,6 +1,14 @@
 # kzcity_picker
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://pub.dev/packages/kzcity_picker) [![pub package](https://img.shields.io/badge/pub-v0.0.2-blue.svg)](https://pub.dev/packages/kzcity_picker)
 
+
+城市选择器 支持 ios、android、macos、web
+
+如果外界不传值，使用默认地址列表
+外界传值，可以使用外部city.json
+
+注意city.json的格式必须同assets/city.json格式保持一致，否则无法正常显示
+
 开始使用
 ```
 dependencies:
@@ -9,18 +17,11 @@ dependencies:
 or
 
 dependencies:
-  flutter_boost:
+  kzcity_picker:
       git:
           url: 'https://github.com/qqcc1388/city_picker.git'
           ref: '0.0.2'
 ```
-
-城市选择器 支持 ios、android、macos、web
-
-如果外界不传值，使用默认地址列表
-外界传值，可以使用外部city.json
-
-注意city.json的格式必须同assets/city.json格式保持一致，否则无法正常显示
 
 ![](https://img2020.cnblogs.com/blog/950551/202008/950551-20200807135609976-1943878161.png)
 
