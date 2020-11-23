@@ -1,5 +1,19 @@
 # kzcity_picker
-[![Build Status](https://travis-ci.com/alibaba/flutter_boost.svg?branch=master)](https://pub.dev/packages/kzcity_picker) [![pub package](https://img.shields.io/pub/v/flutter_boost.svg)](https://pub.dev/packages/kzcity_picker) [![codecov](https://codecov.io/gh/alibaba/flutter_boost/branch/master/graph/badge.svg)](https://pub.dev/packages/kzcity_picker)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://pub.dev/packages/kzcity_picker) [![pub package](https://img.shields.io/badge/pub-v0.0.2-blue.svg)](https://pub.dev/packages/kzcity_picker)
+
+开始使用
+```
+dependencies:
+  kzcity_picker: ^0.0.2
+
+or
+
+dependencies:
+  flutter_boost:
+      git:
+          url: 'https://github.com/qqcc1388/city_picker.git'
+          ref: '0.0.2'
+```
 
 城市选择器 支持 ios、android、macos、web
 
