@@ -1,5 +1,5 @@
 # kzcity_picker
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://pub.dev/packages/kzcity_picker) [![pub package](https://img.shields.io/badge/pub-v0.0.2-blue.svg)](https://pub.dev/packages/kzcity_picker)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://pub.dev/packages/kzcity_picker) [![pub package](https://img.shields.io/badge/pub-v0.0.3-blue.svg)](https://pub.dev/packages/kzcity_picker)
 
 
 城市选择器 支持 ios、android、macos、web
@@ -12,7 +12,7 @@
 开始使用
 ```
 dependencies:
-  kzcity_picker: ^0.0.2
+  kzcity_picker: ^0.0.3
 
 or
 
@@ -20,7 +20,7 @@ dependencies:
   kzcity_picker:
       git:
           url: 'https://github.com/qqcc1388/city_picker.git'
-          ref: '0.0.2'
+          ref: '0.0.3'
 ```
 
 ![](https://img2020.cnblogs.com/blog/950551/202008/950551-20200807135609976-1943878161.png)
