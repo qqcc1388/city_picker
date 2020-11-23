@@ -1,4 +1,5 @@
 # kzcity_picker
+[![Build Status](https://travis-ci.com/alibaba/flutter_boost.svg?branch=master)](https://pub.dev/packages/kzcity_picker) [![pub package](https://img.shields.io/pub/v/flutter_boost.svg)](https://pub.dev/packages/kzcity_picker) [![codecov](https://codecov.io/gh/alibaba/flutter_boost/branch/master/graph/badge.svg)](https://pub.dev/packages/kzcity_picker)
 
 城市选择器 支持 ios、android、macos、web
 
@@ -6,6 +7,8 @@
 外界传值，可以使用外部city.json
 
 注意city.json的格式必须同assets/city.json格式保持一致，否则无法正常显示
+
+![](https://img2020.cnblogs.com/blog/950551/202008/950551-20200807135609976-1943878161.png)
 
 使用
 ```
