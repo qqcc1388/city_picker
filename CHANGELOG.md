@@ -1,6 +1,11 @@
+## 0.0.4
+
+项目使用swift创建，纯oc项目跑swift项目需要添加swift支持
+详情请参考 https://www.cnblogs.com/qqcc1388/p/14034948.html
+
 ## 0.0.3
 
-* 描述
+描述
 
 ## 0.0.2
 
