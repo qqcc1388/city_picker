@@ -25,7 +25,7 @@ dependencies:
 
 ![](https://img2020.cnblogs.com/blog/950551/202008/950551-20200807135609976-1943878161.png)
 
-该plugin使用swift工程创建，如果使用oc项目加载，可能报错swift相关库找不到，如果你也刚好遇到这个问题，请在项目中添加swift支持 
+* 该plugin使用swift工程创建，如果使用oc项目加载，可能报错swift相关库找不到，如果你也刚好遇到这个问题，请在项目中添加swift支持 
 ```
     ld: warning: Could not find or use auto-linked library 'swiftCoreGraphics'
     ld: warning: Could not find or use auto-linked library 'swiftDarwin'
@@ -43,9 +43,10 @@ dependencies:
     clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 ```
+
 1.添加 SWIFT_VERSION 
 2.pod中添加 use_frameworks!
-详细解决方案请参考：https://www.cnblogs.com/qqcc1388/p/14034948.html
+> 详细解决方案请参考：https://www.cnblogs.com/qqcc1388/p/14034948.html
 
 使用
 ```
